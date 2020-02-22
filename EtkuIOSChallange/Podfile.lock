@@ -1,0 +1,28 @@
+PODS:
+  - GoogleMaps (3.7.0):
+    - GoogleMaps/Maps (= 3.7.0)
+  - GoogleMaps/Base (3.7.0)
+  - GoogleMaps/Maps (3.7.0):
+    - GoogleMaps/Base
+  - KRActivityIndicatorView (3.0.4)
+  - KRProgressHUD (3.4.4):
+    - KRActivityIndicatorView (= 3.0.4)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - KRProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - GoogleMaps
+    - KRActivityIndicatorView
+    - KRProgressHUD
+
+SPEC CHECKSUMS:
+  GoogleMaps: 55da829c68aa931f3ae982b9e341cc2f3d89c587
+  KRActivityIndicatorView: 549db10b9578d58bac73db063d8b544e8970f7f2
+  KRProgressHUD: c3b9a48a0ee4824ea13212ac3f1efa50dca021e3
+
+PODFILE CHECKSUM: 527dfe08871c398c5a23b27302870faba43779b4
+
+COCOAPODS: 1.9.0.beta.3
